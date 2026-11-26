@@ -2,6 +2,11 @@
 
 Windows 图形版账号切换器，给反重力（Google Antigravity）同时管理多个 Google 账号，并显示剩余额度。
 
+## 下载
+
+- [最新 Release](https://github.com/sanmumu-325/antigravity-account-manager/releases/latest)（推荐，含 exe）
+- 或直接下载仓库根目录的 `AntigravityAccountManager.exe`
+
 ## 功能
 
 - 账号卡片：邮箱、备注名、套餐、当前使用标记
