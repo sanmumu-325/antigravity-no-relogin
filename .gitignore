@@ -1,0 +1,5 @@
+*.log
+*.lnk
+build.rsp
+.tmp-*
+oauth-clients.json
