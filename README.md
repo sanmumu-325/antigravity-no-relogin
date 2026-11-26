@@ -4,6 +4,8 @@ Windows 图形版账号切换器，给反重力（Google Antigravity）同时管
 
 [English](README.en.md) · 登录一次，之后一键换号，**不需要重复登录**。
 
+也被称为：Antigravity 账号切换器、反重力账号管家、反重力换号工具、Antigravity account switcher。
+
 ## 解决的痛点：不需要重复登录
 
 反重力同一时间只允许登录一个 Google 账号。额度用完后，官方流程要求：

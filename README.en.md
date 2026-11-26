@@ -4,6 +4,8 @@
 
 A Windows GUI for managing multiple Google Antigravity accounts, switching between them without re-authenticating, and checking remaining quota.
 
+Also known as an Antigravity account switcher / multi-account manager.
+
 ## The problem it solves
 
 Google Antigravity allows only one Google account to be active at a time. When the quota runs out, the official flow forces you to:
