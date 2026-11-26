@@ -27,7 +27,7 @@ No browser is opened, no Google authorization flow is repeated, and the switch u
 
 ## Download
 
-- [Latest release](https://github.com/sanmumu-325/antigravity-account-manager/releases/latest) (recommended, includes the exe)
+- [Latest release](https://github.com/sanmumu-325/antigravity-no-relogin/releases/latest) (recommended, includes the exe)
 - Or download `AntigravityAccountManager.exe` from the repository root
 
 ## Features

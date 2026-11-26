@@ -26,7 +26,7 @@ Windows 图形版账号切换器，给反重力（Google Antigravity）同时管
 
 ## 下载
 
-- [最新 Release](https://github.com/sanmumu-325/antigravity-account-manager/releases/latest)（推荐，含 exe）
+- [最新 Release](https://github.com/sanmumu-325/antigravity-no-relogin/releases/latest)（推荐，含 exe）
 - 或直接下载仓库根目录的 `AntigravityAccountManager.exe`
 
 ## 功能
